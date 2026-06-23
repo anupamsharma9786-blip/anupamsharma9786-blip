@@ -101,10 +101,10 @@ I love building real-world, interactive web apps — from emotion-detecting musi
 ## 🎯 Currently Grinding
 
 ```
-📚 DSA   ████████████░░░░░░░░  60% (Striver's A2Z Sheet)
-🐍 Python for AI  ████░░░░░░░░░░░░░░░░  20%
-🤖 LangChain / FastAPI  ██░░░░░░░░░░░░░░░░░░  10%
-🏗️ System Design  ░░░░░░░░░░░░░░░░░░░░   Starting soon
+📚 DSA  (Striver's A2Z Sheet
+🐍 Python for AI  
+🤖 LangChain / FastAPI 
+🏗️ System Design 
 ```
 
 ---
